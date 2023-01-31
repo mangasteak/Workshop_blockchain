@@ -21,8 +21,6 @@ Dans ce Workshop vous apprendrez à faire une Blockchain à echelle réduite pou
 
 - Etape 3 :  Ajout de la fonctionnalité de transactions 
 
-- Etape 4 :  Ajout de la fonctionnalité de minage
-
 # Prerequis:
 
 Il est important de commencer par le commencement lorsque l'on commence quelque chose , ceci est aussi le cas pour les projets.
