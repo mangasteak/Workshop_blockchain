@@ -1,9 +1,9 @@
 
 # Workshop Mini Blockchain
 
-Bienvenu Au premier Workshop du P.O.D Blockchain
+Bienvenue au premier Workshop du P.O.D Blockchain
 
-Dans ce Workshop vous apprendrez à faire une Blockchain à echelle réduite pour apprendre les base du devellopement de Blockchain.
+Dans ce Workshop vous apprendrez à faire une Blockchain à échelle réduite pour apprendre les bases du dévellopement de Blockchain.
 
 
 
@@ -13,7 +13,7 @@ Dans ce Workshop vous apprendrez à faire une Blockchain à echelle réduite pou
 
 ## Roadmap
 
-- Prérequis: installations des différentes librairies 
+- Prérequis : installations des différentes librairies 
 
 - Etape 1 :  Développement de la structure de base de la blockchain
 
@@ -23,9 +23,9 @@ Dans ce Workshop vous apprendrez à faire une Blockchain à echelle réduite pou
 
 # Prerequis:
 
-Il est important de commencer par le commencement lorsque l'on commence quelque chose , ceci est aussi le cas pour les projets.
+Il est important de commencer par le commencement lorsque l'on ce lance dans quelque chose , ceci est aussi le cas pour ce projet.
 
-Pour ce faire commencez par installer Python
+Pour bien débuter installez Python
 
 
 
@@ -35,14 +35,14 @@ Pour ce faire commencez par installer Python
     
 # Etape 1:
 
-Dans cette étape vous allez commencer par develloper la structure de base de la Blockchain.:
+Dans cette étape vous allez commencer par dévelloper la structure de base de la Blockchain.:
 
-Pour rentrer plus en details il vous faudra develloper un premier ```Block``` avec les informations suivantes :
+Pour rentrer plus en détails il vous faudra dévelloper un premier ```Block``` avec les informations suivantes :
  
     - Un Hash
     - Le Hash précédent
     - Un timestamp
-    - et les donnés (à préciser)
+    - et des données (ce que vous voulez)
 
 - [qu'est-ce qu'un block](https://cryptoast.fr/bloc-blockchain-crypto-explication/#:~:text=Un%20bloc%2C%20ou%20block%20en,ou%20contenir%20des%20donn%C3%A9es%20arbitraires.)
 
@@ -51,26 +51,26 @@ Pour rentrer plus en details il vous faudra develloper un premier ```Block``` av
 ----
 ### Tips :
 
-il serait aviser d'utiliser des [class](http://www.xavierdupre.fr/app/teachpyx/helpsphinx/c_classes/classes.html) pour cet exercice
+il serait avisé d'utiliser des [classes](http://www.xavierdupre.fr/app/teachpyx/helpsphinx/c_classes/classes.html) pour cet exercice
 
 
 ## ETAPE 2
 
-Compliquons un peu les choses maintenant .
+Compliquons un peu les choses maintenant.
 Dans cette étape vous allez devoir ajouter une fonctionnalité de [consensus](https://coinacademy.fr/academie/algorithme-consensus-blockchain/) .
 
-L'algorithme à implémenter ce coup ci est le [proof of work](https://cryptoast.fr/qu-est-ce-que-le-pow-proof-of-work/)
+L'algorithme à implémenter ce coup-ci est le [proof of work](https://cryptoast.fr/qu-est-ce-que-le-pow-proof-of-work/)
 
 ---
 ### Tips: 
 
-try looking for something called [noonce](https://101blockchains.com/nonce-in-blockchain/)
+regardez ce qu'est un [nonce](https://101blockchains.com/nonce-in-blockchain/)
 
-try adding it to your block class
+essayez de l'y ajouter a votre classe, 'block'
 ## ETAPE 3
-Si vous avez reussi a passer l'étape précédente , bien joué.
+Si vous avez réussi à passer l'étape précédente, bien joué.
 
-Dans cette partie vous devrais rajouter la fonctionnalité de transaction. 
+Dans cette partie vous devez rajouter la fonctionnalité de transaction. 
 
 ---
 ### Tips:
