@@ -3,7 +3,7 @@
 
 Bienvenue au premier Workshop du P.O.D Blockchain
 
-Dans ce Workshop vous apprendrez à faire une Blockchain à échelle réduite pour apprendre les bases du dévellopement de Blockchain.
+Dans ce Workshop vous apprendrez à faire une Blockchain à échelle réduite pour apprendre les bases du développement de Blockchain.
 
 
 
@@ -35,7 +35,7 @@ Pour bien débuter installez Python
     
 # Etape 1:
 
-Dans cette étape vous allez commencer par dévelloper la structure de base de la Blockchain.:
+Dans cette étape vous allez commencer par développer la structure de base de la Blockchain.:
 
 Pour rentrer plus en détails il vous faudra dévelloper un premier ```Block``` avec les informations suivantes :
  
